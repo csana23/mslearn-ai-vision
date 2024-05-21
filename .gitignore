@@ -4,3 +4,4 @@ venv/
 Labfiles/01-analyze-images/Python/image-analysis/.env
 Labfiles/04-face/Python/computer-vision/.env
 Labfiles/04-face/Python/face-api/.env
+Labfiles/05-ocr/Python/read-text/.env
