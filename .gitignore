@@ -2,4 +2,5 @@ obj
 bin
 venv/
 Labfiles/01-analyze-images/Python/image-analysis/.env
-Labfiles/01-analyze-images/Python/image-analysis/.env
+Labfiles/04-face/Python/computer-vision/.env
+Labfiles/04-face/Python/face-api/.env
